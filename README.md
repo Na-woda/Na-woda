@@ -1,4 +1,5 @@
-<h1 align="center">Hello World, I'm N.Lakshani 👋</h1>
+<h1 align="center">Hello World, I'm Nawoda Lakshani 👋</h1>
+
 <h3 align="center">🚀 Software Developer | 💡 Tech Enthusiast | 🎨 UI/UX Designer</h3>
 
 <p align="center">
